@@ -43,7 +43,7 @@ export const HeroContent = styled.div`
 
 export const HeroH1 = styled.h1`
 	color: #fff;
-	font-size: 48px;
+	font-size: 70px;
 	text-align: center;
 	letter-spacing: 4px;
 
@@ -57,9 +57,7 @@ export const HeroH1 = styled.h1`
 `;
 
 export const HeroP = styled.p`
-	margin-top: 24px;
-	color: #fff;
-	font-size: 24px;
+	margin-top: 8px;
 	text-align: center;
 	max-width: 600px;
 
@@ -73,23 +71,22 @@ export const HeroP = styled.p`
 `;
 
 export const IconYoutube = styled(FaYoutube)`
-	font-size: 48px;
-	margin-right: 0.5rem;
+	font-size: 44px;
+	margin-right: 0.7rem;
 `;
 
 export const IconFacebook = styled(FaFacebook)`
-	font-size: 48px;
-	margin-right: 0.5rem;
+	font-size: 44px;
+	margin-right: 0.7rem;
 `;
 
 export const IconInstagram = styled(FaInstagram)`
-	font-size: 48px;
-	margin-right: 0.5rem;
+	font-size: 44px;
+	margin-right: 0.7rem;
 `;
 
 export const IconSpotify = styled(FaSpotify)`
-	font-size: 48px;
-	letter-spacing: 2px;
+	font-size: 44px;
 `;
 
 export const a = styled.a`
