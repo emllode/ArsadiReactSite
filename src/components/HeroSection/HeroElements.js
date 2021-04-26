@@ -47,12 +47,12 @@ export const HeroH1 = styled.h1`
 	text-align: center;
 	letter-spacing: 4px;
 
-	@media screen at (max-width: 788px) {
-		font-size: 40px;
+	@media screen and (max-width: 788px) {
+		font-size: 60px;
 	}
 
-	@media screen at (max-width: 480px) {
-		font-size: 32px;
+	@media screen and (max-width: 480px) {
+		font-size: 44px;
 	}
 `;
 
@@ -61,11 +61,11 @@ export const HeroP = styled.p`
 	text-align: center;
 	max-width: 600px;
 
-	@media screen at (max-width: 788px) {
+	@media screen and (max-width: 788px) {
 		font-size: 24px;
 	}
 
-	@media screen at (max-width: 480px) {
+	@media screen and (max-width: 480px) {
 		font-size: 18px;
 	}
 `;
@@ -73,20 +73,52 @@ export const HeroP = styled.p`
 export const IconYoutube = styled(FaYoutube)`
 	font-size: 44px;
 	margin-right: 0.7rem;
+
+	@media screen and (max-width: 788px) {
+		font-size: 34px;
+	}
+
+	@media screen and (max-width: 480px) {
+		font-size: 28px;
+	}
 `;
 
 export const IconFacebook = styled(FaFacebook)`
 	font-size: 44px;
 	margin-right: 0.7rem;
+
+	@media screen and (max-width: 788px) {
+		font-size: 34px;
+	}
+
+	@media screen and (max-width: 480px) {
+		font-size: 28px;
+	}
 `;
 
 export const IconInstagram = styled(FaInstagram)`
 	font-size: 44px;
 	margin-right: 0.7rem;
+
+	@media screen and (max-width: 788px) {
+		font-size: 34px;
+	}
+
+	@media screen and (max-width: 480px) {
+		font-size: 28px;
+	}
 `;
 
 export const IconSpotify = styled(FaSpotify)`
 	font-size: 44px;
+
+	@media screen and (max-width: 788px) {
+		font-size: 34px;
+	}
+
+	@media screen and (max-width: 480px) {
+		font-size: 28px;
+	}
 `;
 
 export const a = styled.a`

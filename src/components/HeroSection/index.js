@@ -25,15 +25,7 @@ function HeroSection() {
 				<HeroH1>ARSADI</HeroH1>
 				<HeroP>
 					<a
-						href='https://www.youtube.com/channel/UCMXraHIHxkhu1y1hidM4Hkg'
-						target='_blank'
-						rel='noreferrer'
-						style={{ color: 'white' }}
-					>
-						<IconYoutube />
-					</a>
-					<a
-						href='https://www.instagram.com/arsadimusic'
+						href='https://www.facebook.com/arsadimusic/'
 						target='_blank'
 						rel='noreferrer'
 						style={{ color: 'white' }}
@@ -47,6 +39,14 @@ function HeroSection() {
 						style={{ color: 'white' }}
 					>
 						<IconInstagram />
+					</a>
+					<a
+						href='https://www.youtube.com/channel/UCMXraHIHxkhu1y1hidM4Hkg'
+						target='_blank'
+						rel='noreferrer'
+						style={{ color: 'white' }}
+					>
+						<IconYoutube />
 					</a>
 					<a
 						href='https://open.spotify.com/artist/30PReAPlWzpwfF2OJYiZ4N'
